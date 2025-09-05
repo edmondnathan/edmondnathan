@@ -59,10 +59,11 @@ I am a passionate data analyst who likes working with anything related to data.
 
 
 ## Projects Completed :hammer_and_pick:
-
+* [Data Engineering Projects](https://github.com/edmondnathan/data_pipieline_orchestration_with_apache_airflow): This repository contains projects completed in Data Engineering.
 
 
 ## Connect With Me :globe_with_meridians:
+* :link: [LinkedIn](https://www.linkedin.com/in/edmond-nathan/)
 
 
 
