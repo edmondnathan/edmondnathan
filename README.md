@@ -22,13 +22,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/edmond-nathan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=6c757d&logoColor=white&labelColor=0077B5&style=flat" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=6c757d&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href="edmondnathant@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=778da9&logoColor=white&labelColor=D14836&style=flat" height="32" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=778da9&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://x.com/EstyleDrive?t=iT-SRjVaCuYJzkrQsvAb4Q&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=twitter&label=Twitter&color=778da9&logoColor=white&labelColor=1DA1F2&style=flat" height="32" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=twitter&label=Twitter&color=778da9&logoColor=white&labelColor=1DA1F2&style=flat" height="35" alt="twitter logo"  />
   </a>
 </div>
 
