@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate Data Analyst from UK.</h3>
+<h2 align="left">Hi 👋! My name is Edmond Nathan and I'm a Data Specialist.</h2>
 
-- 🔭 I’m currently working on **Data Eng.**
+###
 
-- 🌱 I’m currently learning **PySpark**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on **Projects**
+###
 
-- 💬 Ask me about **Data**
+<div align="left">
+  <a href="https://www.linkedin.com/in/edmond-nathan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=6c757d&logoColor=white&labelColor=0077B5&style=flat" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="edmondnathant@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=778da9&logoColor=white&labelColor=D14836&style=flat" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/EstyleDrive?t=iT-SRjVaCuYJzkrQsvAb4Q&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=twitter&label=Twitter&color=778da9&logoColor=white&labelColor=1DA1F2&style=flat" height="32" alt="twitter logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **edmondnathant@gmail.com**
-
-- ⚡ Fun fact **I am too funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="edmond-nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edmond-nathan/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-
-<!--
-**edmondnathan/edmondnathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
