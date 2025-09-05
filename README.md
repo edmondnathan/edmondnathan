@@ -33,3 +33,20 @@
 </div>
 
 ###
+
+## About Me :man_technologist:
+
+## Skills :dart:
+
+
+## Projects Completed :hammer_and_pick:
+
+
+
+## Connect With Me :globe_with_meridians:
+
+
+
+
+
+
