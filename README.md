@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate Data Analyst from UK.</h3>
 
