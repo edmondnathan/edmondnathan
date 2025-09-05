@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Edmond Nathan and I'm a Data Specialist.</h2>
+Excel | Power BI | SQL | Tableau | Data Visualization
 
 ###
 
@@ -16,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
 
 ###
@@ -35,8 +38,24 @@
 ###
 
 ## About Me :man_technologist:
+I am a passionate data analyst who likes working with anything related to data.
 
 ## Skills :dart:
+* Data Cleaning
+  * Power Query
+  * SQL
+  * Excel
+
+* Data Analysis
+  * SQL
+  * Pivot Table
+  * DAX
+
+* Data Visualization
+  * Power BI
+  * Tableau
+  * Excel
+  * R Programming
 
 
 ## Projects Completed :hammer_and_pick:
